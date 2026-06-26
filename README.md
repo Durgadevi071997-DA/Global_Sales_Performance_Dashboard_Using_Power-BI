@@ -72,15 +72,11 @@ Designed a professional dashboard with KPI cards and slicers.
 Generated meaningful business insights from sales data.
 
 Improved skills in data visualization, dashboard design, and business analytics using Power BI.
+
 ## Conclusion
 
 This project successfully demonstrated how SQL and Python can be integrated to perform sales data analysis. Using SQLite, Pandas, and Matplotlib, meaningful insights were generated from sales data, and the results were effectively visualized through a bar chart.
-## Conclusion
 
-This project successfully demonstrated how SQL and Python can be integrated to perform sales data analysis. Using SQLite, Pandas, and Matplotlib, meaningful insights were generated from sales data, and the results were effectively visualized through a bar chart.
-## Conclusion
-
-This project successfully demonstrated how SQL and Python can be integrated to perform sales data analysis. Using SQLite, Pandas, and Matplotlib, meaningful insights were generated from sales data, and the results were effectively visualized through a bar chart.
 ## Screenshots
 
 <img width="617" height="346" alt="Screenshot 2026-06-26 132340" src="https://github.com/user-attachments/assets/1d63356e-2f42-4bbe-82f8-56a4e26eecb8" />
